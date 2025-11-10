@@ -1,6 +1,7 @@
 ![Dashboard Preview](./dashboard-preview.png)
 
-<h1 align="center">🧭 My Dashboard</h1>
+<h1 align="center">🧭 My Dashboard رابط المشروع🌐 **Live Demo:** [https://my-dashboard-three-lyart.vercel.app](https://my-dashboard-three-lyart.vercel.app)
+</h1>
 
 <p align="center">
 لوحة تحكم احترافية مبنية باستخدام <b>Next.js + React + TypeScript</b><br>
